@@ -1,0 +1,11 @@
+:root {
+    --c1: #673ab7;
+    --c1-rgb: 103, 58, 183;
+    --tc: #1e2022;
+    --tc-rgb: 30, 32, 34;
+    --title-3: #673ab7;
+    --title-clr: #334257;
+    --container-shadow: rgba(220, 220, 220, 0.71);
+    --container-background: #F3F1EF;
+    --header-height: 70px;
+}
